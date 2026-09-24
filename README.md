@@ -14,9 +14,9 @@ I'm documenting my programming journey, learning new technologies, building proj
 - 🌐 Currently learning **HTML** and web development
 - 🔐 Interested in **Cybersecurity**
 - 🛠️ Building my own Python utility library: **simple**
-- 🎮 Built projects including a **Snake Game**
+- 🚀 Built several programming projects
 - 📺 I document my programming journey on YouTube
-- 🚀 My goal is to keep learning, building, and improving
+- 📚 I enjoy learning by building real projects
 
 ---
 
@@ -39,9 +39,22 @@ I'm currently focusing on:
 
 ## 🛠️ My Projects
 
-### 📦 simple
+I've built several programming projects while learning Python, including:
 
-`simple` is my own Python utility library.
+- 🐍 **Snake Game**
+- 🃏 **Blackjack Game**
+- 🐢 **Turtle Race**
+- 🏓 **Ping Pong Game**
+- 🎯 **Catching Game**
+- 🗺️ **Map Game**
+
+These projects have helped me practice programming fundamentals, problem-solving, game logic, and working with Python's `turtle` library.
+
+---
+
+## 📦 simple
+
+**simple** is my own Python utility library.
 
 The goal is to create useful utilities that make common Python tasks simpler and clearer.
 
@@ -56,11 +69,11 @@ I'm also learning how to properly structure, test, and package a Python library.
 
 ## 🐍 Python Journey
 
-I've completed a Python course and have been building projects to improve my programming skills.
+I've completed a Python course and built several projects to practice and improve my programming skills.
 
-One of my projects was a **Snake Game**, which I also used as the topic of one of my YouTube videos.
+Some of the projects I've built include **Snake Game, Blackjack Game, Turtle Race, Ping Pong Game, Catching Game, and Map Game**.
 
-I'm now taking what I learned in Python and moving toward web development.
+I'm now taking what I learned in Python and moving toward web development, starting with **HTML**.
 
 ---
 
@@ -70,16 +83,16 @@ I'm documenting my programming journey on YouTube.
 
 My channel currently has:
 
-- 🎥 3 videos
-- 👤 10 subscribers
+- 🎥 **3 videos**
+- 👤 **10 subscribers**
 
 My videos include:
 
 1. An introduction to me and my programming journey
 2. A short editing/montage video
-3. A programming video where I build a **Snake Game**
+3. A programming video about building a **Snake Game**
 
-The goal of the channel is to **document my progress and explain what I learn about programming**.
+The goal of my channel is to **document my progress and explain what I learn about programming**.
 
 ---
 
@@ -91,12 +104,13 @@ The goal of the channel is to **document my progress and explain what I learn ab
 - Learn cybersecurity
 - Build and improve my own open-source projects
 - Share my programming journey with others
+- Keep learning new technologies
 
 ---
 
 ## 📈 The Journey
 
-I'm still at the beginning of my journey.
+I'm still at the beginning of my programming journey.
 
 There is a lot I don't know yet — and that's exactly why I'm here.
 
@@ -104,4 +118,4 @@ There is a lot I don't know yet — and that's exactly why I'm here.
 
 ---
 
-⭐ If you find one of my projects useful, feel free to explore it!
+⭐ Thanks for visiting my profile!
