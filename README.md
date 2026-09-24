@@ -15,7 +15,7 @@ Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 🌐 I'm currently learning Web Development
 
-🎥 I recently started a small YouTube channel to document my programming journey and share what I learn
+🎥 I own a small YouTube channel to document my programming journey and share what I learn
 
 💻 I currently work with Python, HTML, CSS, and JavaScript
 
