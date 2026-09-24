@@ -1,163 +1,65 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://youtube.com/YOUR_CHANNEL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" height="30" style="display:inline-block;" />
-  </a>
-</p>
+<p align="center">    
+  <a href="YOUR_YOUTUBE_LINK" target="_blank">    
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" height="30" style="display:inline-block;" />    
+  </a>    
+  <a href="YOUR_GITHUB_LINK" target="_blank">    
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" style="display:inline-block;" />    
+  </a>    
+</p>    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+🇸🇾 I'm Ibrahim Al-Wassah, a 13-year-old developer from Syria
 
-🇸🇾 I'm **Ibrahim Al-Wassah**, a 13-year-old developer from Syria.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🎥 I document my programming journey on YouTube
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+💻 I use daily: .py, .html, .css, .js
 
-🐍 I'm currently learning and building with **Python**.
+🐍 I have finished learning Python
 
-🌐 I'm currently learning **HTML** and moving into web development.
+🌐 I am currently learning Web Development
 
-🔐 I'm interested in **Cybersecurity**.
+🔐 I plan to learn Cybersecurity alongside Web Development
 
-🛠️ I'm building my own Python utility library called **simple**.
+🚀 I enjoy building projects and sharing what I learn
 
-🎮 I've built several programming projects and games while learning Python.
+🧑‍💻 Tech I work on :
 
-📺 I'm documenting my programming journey and sharing what I learn on YouTube.
+<p align="center">    
+      <a href="https://skillicons.dev">    
+            <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github" />    
+      </a>    
+</p>    ---
 
-🚀 I enjoy learning by building real projects.
+<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-🧑‍💻 Tech I'm Learning:
+<!--START_SECTION:waka-->    I'm a Night 🦉🌞 Morning                <!-- WAKA_TIME_MORNING -->
+🌆 Daytime                <!-- WAKA_TIME_DAYTIME -->
+🌃 Evening                <!-- WAKA_TIME_EVENING -->
+🌙 Night                  <!-- WAKA_TIME_NIGHT -->
 
+📅 I'm Most Productive on <!-- WAKA_MOST_PRODUCTIVE_DAY -->
 
-<p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python,html,git,github" />
-      </a>
-</p>
+<!--END_SECTION:waka-->  ⏳ Year Progress: { █████████████████████▁▁▁▁▁▁▁▁▁ } 72.90% as on ⏰ 24-Sep-2026  ---
 
----
+<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Projects:
 
-<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Programming Journey:
+<!-- PROJECT-LIST:START -->  My projects and experiments from my programming journey🐍 Python Projects
 
-I'm still at the beginning of my programming journey, but I've already built several projects while learning Python.
+🌐 Web Development Projects
 
-🐍 **Snake Game**
+🔐 Cybersecurity Projects — coming soon
 
-🃏 **Blackjack Game**
+<!-- PROJECT-LIST:END -->  ▶ ... view more  ---
 
-🐢 **Turtle Race**
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 
-🏓 **Ping Pong Game**
+<a href="https://github.com/marketplace/actions/quote-readme">    
+<!--STARTS_HERE_QUOTE_README-->    
+• <i>Every expert was once a beginner.</i>    
+<!--ENDS_HERE_QUOTE_README-->    
+</a>    ---
 
-🎯 **Catching Game**
+<img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
 
-🗺️ **Map Game**
-
-These projects helped me practice:
-
-```text
-Python fundamentals
-Problem solving
-Game logic
-Functions
-Loops
-Conditions
-Object-oriented thinking
-The turtle library
-
-My Python Library:
-I'm currently building my own Python utility library called simple.
-The idea behind simple is:
-Make common Python tasks simpler and clearer.
-Current project structure:
-simple/
-│
-├── simple/
-│   ├── __init__.py
-│   └── collections.py
-│
-└── tests/
-    └── test_collections.py
-Current utilities:
-from simple import chunks, flatten
-
-chunks([1, 2, 3, 4], 2)
-
-flatten([1, [2, 3], [4]])
-I'm also learning about:
-Package structure
-Testing
-Error handling
-Input validation
-Clean APIs
-Python modules
-Library design
- My Github Stats:
-�
-￼ 
-
-�
-￼ 
-
- My Learning Progress:
-🐍 Python
-
-████████████████████████████████████████  Strong foundation
-
-
-🌐 HTML
-
-████████████████░░░░░░░░░░░░░░░░░░░░░░  Currently learning
-
-
-🔐 Cybersecurity
-
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Future focus
- My YouTube Journey:
-I'm documenting my programming journey on YouTube.
-🎥 Videos        3
-👤 Subscribers   10
-My videos currently include:
-👋 An introduction to my programming journey.
-🎬 A short editing / montage video.
-🐍 A programming video about building a Snake Game.
-The goal of the channel is to document my progress, share what I learn, and explain programming concepts.
- My Goals:
-Learn
-  ↓
-Build
-  ↓
-Experiment
-  ↓
-Break
-  ↓
-Fix
-  ↓
-Improve
-  ↓
-Repeat
-💻 Become a stronger programmer.
-🌐 Learn web development.
-🔐 Learn cybersecurity.
-🐍 Improve my Python skills.
-📦 Make simple a useful Python library.
-🛠️ Build more real projects.
-📺 Continue documenting my programming journey.
- A Famous Fact/Quote:
-�
-• The best way to learn programming is to build things. 
- Here's a Pinch of Humour:
-�
-￼
-�
-
-⭐ Thanks for visiting my profile!
-�
-
-�
-
-Learn → Build → Break → Fix → Repeat.
-```
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
